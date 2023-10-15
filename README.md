@@ -41,3 +41,5 @@ The system utilizes a microservices architecture with API gateway routing, messa
 - Database: SQL-based databases
 - Backend: Java
 - Frontend: (GUI) - Implementation not included in this repository.
+
+Keep in mind that maybe some of the features are not fully implemented
